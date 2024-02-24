@@ -1,5 +1,5 @@
 # Jumperless Probe
-##### a thing to poke your Jumperless with
+##### a thing to poke your [Jumperless](https://github.com/Architeuthis-Flux/Jumperless) with
 
 
 This is a less ghetto version of this:
