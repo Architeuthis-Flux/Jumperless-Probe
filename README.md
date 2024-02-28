@@ -1,6 +1,7 @@
 # Jumperless Probe
 ##### a thing to poke your [Jumperless](https://github.com/Architeuthis-Flux/Jumperless) with
 
+![JumperlessProbe2](https://github.com/Architeuthis-Flux/Jumperless-Probe/assets/20519442/e5d34e78-0c48-4546-857d-e044918f7c56)
 
 This is a less ghetto version of this:
 
@@ -23,3 +24,5 @@ And with this thing and a Jumperess, you can do this:
 https://github.com/Architeuthis-Flux/Jumperless-Probe/assets/20519442/1b6e1502-1671-44e5-9529-7ad5706b3317
 
 The footprint should basically support any button you can find laying around.
+![JumperlessProbeSAll](https://github.com/Architeuthis-Flux/Jumperless-Probe/assets/20519442/ef13e436-d1ac-41e2-ab4d-b62e4396fb47)
+![JumperlessProbeWidened](https://github.com/Architeuthis-Flux/Jumperless-Probe/assets/20519442/bb6e022d-fc81-45b5-a3df-40146b0a33c0)
